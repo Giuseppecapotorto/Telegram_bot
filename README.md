@@ -19,10 +19,10 @@ Download Requirements.txt to start using the Telegram Bot Api libraries and crea
 
 To create a virtual environment you need to open the terminal and type:
 - cd dekstop 
-- mkdir <your folder>
-- cd <your folder>
-- python -m venv <your folder>
-- <your folder> \ Script\ Activate 
+- mkdir your folder
+- cd your folder
+- python -m venv your folder
+- your folder> \ Script\ Activate 
 - Requirements.txt
 - New <File.py> 
 
